@@ -1,40 +1,44 @@
-# 📱 Edunet Labs Internship - Task 4
+# Edunet Labs Internship - Task 5
 
-## 🎯 Project Title: Making a Static Webpage Responsive using Media Queries
+## Project Title: Deploying a Static Website with GitHub Pages
 
-### 👨‍💻 Developed by: Jayanth Chintalapati
-
----
-
-## 📌 Objective
-
-Convert a previously created **static desktop-only webpage** into a **mobile-friendly responsive webpage** using:
-
-- ✅ CSS Media Queries
-- ✅ Flexible Units (%, rem, vw)
-- ✅ Responsive Navigation Menu
-- ✅ Viewport Scaling
+### Developed by: Jayanth Chintalapati
 
 ---
 
-## 🛠️ What I Did
+## Objective
 
-- Added the `<meta name="viewport" ...>` tag in the HTML to support responsiveness.
-- Implemented **CSS media queries** for screen widths `≤ 768px`.
-- Replaced fixed pixel values with **relative units** to make elements fluid.
-- Modified the **navbar** to collapse into a hamburger menu on small screens.
-- Ensured proper scaling of:
-  - Hero section text
-  - Buttons
-  - Footer and social icons
-  - Images and layout spacing
+Host a static website live using **GitHub Pages** to understand:
+- Version control with Git
+- Static hosting workflows
+- Free deployment using GitHub
 
 ---
 
-## 🧰 Technologies Used
+## What I Deployed
 
-- HTML5
-- CSS3
-- Font Awesome Icons
-- Media Queries
-- Flexbox
+I deployed my **Task 4 (Responsive Landing Page)** to GitHub Pages.
+
+---
+
+## Tools & Technologies Used
+
+- Git & GitHub
+- GitHub Pages
+- HTML5 & CSS3
+- Command Line Interface (CLI)
+
+---
+
+## Live Website
+
+🔗 [https://jayanthc.github.io](https://jayanthc.github.io)
+
+---
+
+## What I Learned
+
+- How to create and push code to a GitHub repository
+- How to use GitHub Pages to host static websites
+- The difference between static vs dynamic hosting
+- Basics of continuous deployment with version control
