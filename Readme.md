@@ -32,7 +32,7 @@ I deployed my **Task 4 (Responsive Landing Page)** to GitHub Pages.
 
 ## Live Website
 
-🔗 [https://jayanthc.github.io](https://jayanthc.github.io)
+🔗  [https://jayanthc0407.github.io/JayanthC/]
 
 ---
 
